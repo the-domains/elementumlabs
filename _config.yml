@@ -1,6 +1,6 @@
 name: ElementumLabs
 favicon: null
-layout_spectrum: 0.9899046018254012
+layout_spectrum: 0
 typography_spectrum: 0.10874461685307324
 title: ElementumLabs
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#ffffff'
+    - '#9f9f9f'
+    - '#d8d8d8'
+    - '#4a4a4a'
   brandStrength: 0.7487287661060691
   lightness: 0.42017244384624064
   saturation: 0.7992505680304021
